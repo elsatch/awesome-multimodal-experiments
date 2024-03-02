@@ -2,7 +2,7 @@
 
 In this repository, we share awesome examples, trials and errors related to multimodal generative AI models This includes models like Llava, GPT-4 Vision, Obisidian, etc.
 
-Each experiment will have it's own folder with a minimal structure based on the Data Science Cookiecutter template. This means you'll find the following folders:
+Each experiment will have it's own folder with a minimal structure based on the Data Science Cookiecutter template. This means you'll find the following files and folders:
 
 - README.md: general description of the experiment
 - data: includes subfolders for input data (raw or external), interim and processed data
